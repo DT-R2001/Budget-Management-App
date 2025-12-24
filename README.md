@@ -21,6 +21,8 @@
 
 ![App Showcase](docs/images/app_showcase.png)
 
+> **Note**: *The images shown above are conceptual mockups generated for demonstration purposes and may slightly differ from the actual application interface.*
+
 ## ✨ Key Features
 
 | Feature | Description |
@@ -71,5 +73,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
-    <i>Built with ❤️ by <a href="https://github.com/<YOUR_USERNAME>">Your Name</a></i>
+    <i>Built with ❤️ by <a href="https://github.com/DT-R2001">DT-R2001</a></i>
 </div>
