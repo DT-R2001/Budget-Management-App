@@ -73,5 +73,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
-    <i>Built with ❤️ by <a href="https://github.com/DT-R2001">DT-R2001</a></i>
+    <i>Built with ❤️ by <a href="https://github.com/DT-R2001">DT-R2001</a> & <a href="https://github.com/shavihara">shavihara</a></i>
 </div>
